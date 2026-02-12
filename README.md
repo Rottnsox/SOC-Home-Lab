@@ -38,4 +38,5 @@ Future Improvements
 - Automate alert reporting
 - Simulate a full incident response life-cycle
 
-!Documentation/SOC Home Lab - Network Architecture.png
+![SOC Lab Architecture](Documentation/SOC%20Home%20Lab%20-%20Network%20Architecture.png)
+
